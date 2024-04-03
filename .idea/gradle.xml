@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/mad_animation" />
+            <option value="$PROJECT_DIR$/mad_cw1" />
+            <option value="$PROJECT_DIR$/mad_cw2" />
+            <option value="$PROJECT_DIR$/mad_cw2_2" />
+            <option value="$PROJECT_DIR$/mad_cw3" />
+            <option value="$PROJECT_DIR$/mad_many" />
+            <option value="$PROJECT_DIR$/mad_screen" />
+            <option value="$PROJECT_DIR$/mad_starik" />
+            <option value="$PROJECT_DIR$/mad_timer" />
+            <option value="$PROJECT_DIR$/mad_timer_image" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

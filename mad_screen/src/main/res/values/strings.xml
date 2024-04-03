@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mad_screen</string>
+
+    <string name="txt1">Экран 1</string>
+    <string name="txt2">Экран 2</string>
+
+    <string name="but_1">Кнопка 1</string>
+    <string name="but_2">Кнопка 2</string>
+</resources>

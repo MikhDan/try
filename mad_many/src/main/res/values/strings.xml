@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">mad_many</string>
+
+    <string name="lblText1">Экран первый</string>
+    <string name="lblText2">Экран Второй</string>
+    <string name="btnText11">Перейти на экран 2</string>
+    <string name="btnText12">Передать 2</string>
+    <string name="btnText21">Перейти на экран 1</string>
+    <string name="btnText22">Передать </string>
+    <string name="txtText1">
+        О сколько нам открытий чудных\n
+Готовят просвещенья дух \n
+И опыт, сын ошибок трудных, \n
+И гений, <b>парадоксов друг</b>, \n
+И случай, бог изобретатель...
+
+    </string>
+    <string name="txtText2">Экран Второй</string>
+    <string name="txtText3">Экран Третий</string>
+    <string name="txtHint">Skazka</string>
+    <string name="txtRb1">Лебедь</string>
+    <string name="txtRb2">Рак</string>
+    <string name="txtRb3">Щука</string>
+    <string name="btnText3">Иди на 3-й экран</string>
+    <string name="lblText3">Экран Третий \n выбери и вернешься на первый</string>
+</resources>

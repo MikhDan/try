@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mad_timer</string>
+    <string name="timer">timer</string>
+    <string name="vremya">vremya</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="chbx">single shot</string>
+</resources>
